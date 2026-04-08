@@ -11,6 +11,7 @@ This project analyzes Tamil Nadu Assembly elections across five election cycles 
 ## Project Structure
 - Dashboard: /index.html
 - Raw Data: /data/raw/
+- Report: /Report/
 
 
 ## Live Dashboard
